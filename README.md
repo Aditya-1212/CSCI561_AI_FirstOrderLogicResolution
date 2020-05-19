@@ -1,0 +1,1 @@
+# CSCI_AI_FirstOrderLogicResolution
